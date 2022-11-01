@@ -22,9 +22,9 @@
 
 <br />
 
-- [Test Cases](https://github.com/YuraNilov/)
-- [Bug Reports](https://github.com/YuraNilov/)
-- [Test Reports](https://github.com/YuraNilov/)
+- [Test Cases](https://github.com/YuraNilov/](https://github.com/YuraNilov/A-Merch/tree/main/Test%20Cases/Examples)
+- [Bug Reports](https://github.com/YuraNilov/https://github.com/YuraNilov/A-Merch/tree/main/Bug%20Reports/Examples](https://github.com/YuraNilov/A-Merch/tree/main/Bug%20Reports/Examples)
+- [Test Reports](https://github.com/YuraNilov/](https://github.com/YuraNilov/A-Merch/tree/main/Test%20Reports)
 
 <br />
 
