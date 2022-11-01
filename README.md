@@ -6,7 +6,7 @@
 
 <br />
 
-![Jira]([https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)])
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-e5e5e5?style=for-the-badge&logo=confluence&logoColor=0052CC)
 ![TestRail](https://img.shields.io/badge/TestRail-1F4B6A?style=for-the-badge&logo=deezer&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
