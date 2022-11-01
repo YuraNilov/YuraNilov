@@ -1,4 +1,3 @@
-
 ### Hi, I'm Yura, a beginner QA Engineer.
 
 <br />
