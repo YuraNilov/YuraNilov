@@ -14,7 +14,6 @@
 ![DevTools](https://img.shields.io/badge/DevTools-2674f2?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372D29?style=for-the-badge&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br />
 
