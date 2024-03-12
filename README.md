@@ -1,7 +1,5 @@
 ### Привет! Меня зовут Юра, я QA Engineer.
 
-<br>
-
 ---
 
 <br>
@@ -36,9 +34,8 @@
 
 ---
 
-<br>
-
-### 📋 Примеры тестовой документации:ㅤ|ㅤ[Отчёты](https://github.com/YuraNilov/A-Merch/tree/main/Test%20Reports)ㅤ|ㅤ[Тест-кейсы](https://github.com/YuraNilov/A-Merch/tree/main/Test%20Cases)ㅤ|ㅤ[Баг-репорты](https://github.com/YuraNilov/A-Merch/tree/main/Bug%20Reports)ㅤ|ㅤ[Postman](https://github.com/YuraNilov/A-Merch/tree/main/Postman)ㅤ|ㅤ[TestRail](https://github.com/YuraNilov/A-Merch/tree/main/TestRail)ㅤ|ㅤ[Confluence](https://github.com/YuraNilov/A-Merch/tree/main/Confluence)ㅤ|ㅤ
+### 📋 Примеры тестовой документации:
+[Отчёты](https://github.com/YuraNilov/A-Merch/tree/main/Test%20Reports)ㅤ|ㅤ[Тест-кейсы](https://github.com/YuraNilov/A-Merch/tree/main/Test%20Cases)ㅤ|ㅤ[Баг-репорты](https://github.com/YuraNilov/A-Merch/tree/main/Bug%20Reports)ㅤ|ㅤ[Postman](https://github.com/YuraNilov/A-Merch/tree/main/Postman)ㅤ|ㅤ[TestRail](https://github.com/YuraNilov/A-Merch/tree/main/TestRail)ㅤ|ㅤ[Confluence](https://github.com/YuraNilov/A-Merch/tree/main/Confluence)
 
 <br>
 
