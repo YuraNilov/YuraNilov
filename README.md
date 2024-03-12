@@ -32,8 +32,7 @@
 
 ---
 
-### 📋 Примеры тестовой документации:
-<a href="https://github.com/YuraNilov/A-Merch/tree/main/Test%20Reports" style="text-decoration: none;">Отчёты</a>ㅤ|ㅤ<a href="https://github.com/YuraNilov/A-Merch/tree/main/Test%20Cases" style="text-decoration: none;">Тест-кейсы</a>ㅤ|ㅤ<a href="https://github.com/YuraNilov/A-Merch/tree/main/Bug%20Reports" style="text-decoration: none;">Баг-репорты</a>ㅤ|ㅤ<a href="https://github.com/YuraNilov/A-Merch/tree/main/Postman" style="text-decoration: none;">Postman</a>ㅤ|ㅤ<a href="https://github.com/YuraNilov/A-Merch/tree/main/TestRail" style="text-decoration: none;">TestRail</a>ㅤ|ㅤ<a href="https://github.com/YuraNilov/A-Merch/tree/main/Confluence" style="text-decoration: none;">Confluence</a>
+### 📋 [Примеры тестовой документации](https://github.com/YuraNilov/A-Merch)
 
 ### 📲 Как со мной связаться?
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YuraNilov)
