@@ -2,8 +2,6 @@
 
 ---
 
-<br>
-
 ### 👨‍💻 Какие инструменты и технологии я использую?
 
 <br>
@@ -36,8 +34,6 @@
 
 ### 📋 Примеры тестовой документации:
 [Отчёты](https://github.com/YuraNilov/A-Merch/tree/main/Test%20Reports)ㅤ|ㅤ[Тест-кейсы](https://github.com/YuraNilov/A-Merch/tree/main/Test%20Cases)ㅤ|ㅤ[Баг-репорты](https://github.com/YuraNilov/A-Merch/tree/main/Bug%20Reports)ㅤ|ㅤ[Postman](https://github.com/YuraNilov/A-Merch/tree/main/Postman)ㅤ|ㅤ[TestRail](https://github.com/YuraNilov/A-Merch/tree/main/TestRail)ㅤ|ㅤ[Confluence](https://github.com/YuraNilov/A-Merch/tree/main/Confluence)
-
-<br>
 
 ### 📲 Как со мной связаться?
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YuraNilov)
