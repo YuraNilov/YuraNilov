@@ -14,7 +14,7 @@
 
 <br>
 
->### Работа с кодом:  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" width="35" height= "35" align="center" />  <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="Git Bash" title="Git Bash" width="35" height= "35" align="center" />  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" width="35" height= "35" align="center" />  <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-pycharm.svg" alt="PyCharm" title="PyCharm" width="35" height= "35" align="center" />
+>### Работа с кодом:    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" width="35" height= "35" align="center" />    <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="Git Bash" title="Git Bash" width="35" height= "35" align="center" />    <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" width="35" height= "35" align="center" />      <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-pycharm.svg" alt="PyCharm" title="PyCharm" width="35" height= "35" align="center" />
 
 <br>
 
